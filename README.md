@@ -1,2 +1,2 @@
 # Devproject
-Devops for devpractice
+Devops for devpracticeclasses
